@@ -26,7 +26,7 @@
 - [ ] Screenshot: RAM and CPU details
 - [ ] Screenshot: Free disk space
 - [ ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+- [ ] Screenshot: Admin rights confirmed 
 
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2
