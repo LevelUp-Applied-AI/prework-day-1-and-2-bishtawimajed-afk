@@ -28,3 +28,12 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+
+[I’m majd bishtawi This repository is for setting up my dev environment and tracking my progress during the AI.SPIRE Pre-work phase]
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/<bishtawimajed-afk>-prework.git
+cd <bishtawimajed-afk>-prework
