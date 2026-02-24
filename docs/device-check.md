@@ -2,7 +2,7 @@
 
 **Program:** AI.SPIRE Pre-Work
 **Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**GitHub username:** [your-github-majd bishtawi]
 
 ---
 
